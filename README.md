@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="./.github/images/logo.svg" />
+  <img src="./src/assets/logo.svg" />
 </h1>
 
-<h4 align="center">A fake gaming store.</h4>
+<h4 align="center">A simple todo app.</h4>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/caiotracera/todo-vite-tailwind?color=F231A5">
